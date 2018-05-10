@@ -1,7 +1,7 @@
-# MockingJayAssignment3
+# 
 
 Dig Dug
 
-Hikaru Kasai	50765935
+Hikaru Kasai	
 
-Jay Patel	77742251
+Jay Patel	
