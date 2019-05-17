@@ -1,4 +1,5 @@
 
-Candy Crush 
-Hikaru Kasai	
+Candy Crush creators:
 Jay Patel	
+Hikaru Kasai	
+
